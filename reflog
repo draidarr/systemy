@@ -1,0 +1,10 @@
+Draidar@DESKTOP-4QC4HPQ MINGW64 ~/Documents/GitHub/systemy (main)
+$ git reflog
+b7b65b6 (HEAD -> main, tag: v1.1-LoremIpsum/Kant, origin/texts, origin/main, origin/HEAD, texts) HEAD@{0}: merge texts: Fast-forward
+42a2567 (tag: v1.0-personal_data, origin/personal_details, personal_details) HEAD@{1}: checkout: moving from texts to main
+b7b65b6 (HEAD -> main, tag: v1.1-LoremIpsum/Kant, origin/texts, origin/main, origin/HEAD, texts) HEAD@{2}: pull --progress origin: Fast-forward
+42a2567 (tag: v1.0-personal_data, origin/personal_details, personal_details) HEAD@{3}: checkout: moving from main to texts
+42a2567 (tag: v1.0-personal_data, origin/personal_details, personal_details) HEAD@{4}: merge personal_details: Fast-forward
+ba724cb HEAD@{5}: checkout: moving from personal_details to main
+42a2567 (tag: v1.0-personal_data, origin/personal_details, personal_details) HEAD@{6}: checkout: moving from main to personal_details
+ba724cb HEAD@{7}: clone: from https://github.com/draidarr/systemy.git
